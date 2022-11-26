@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e7d5168-7e77-4331-a934-f45f790122bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassesJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pilot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sailor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Животное.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Крокодил.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Тигр.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e7d5168-7e77-4331-a934-f45f790122bf" name="Changes" comment="готов" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,8 +65,23 @@
       <updated>1669304645897</updated>
       <workItem from="1669304648232" duration="6906000" />
       <workItem from="1669445804162" duration="7233000" />
-      <workItem from="1669471714339" duration="292000" />
+      <workItem from="1669471714339" duration="1382000" />
     </task>
+    <task id="LOCAL-00001" summary="готов">
+      <created>1669472084341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669472084341</updated>
+    </task>
+    <task id="LOCAL-00002" summary="готов">
+      <created>1669472516744</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669472516744</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="готов" />
+    <option name="LAST_COMMIT_MESSAGE" value="готов" />
   </component>
 </project>
