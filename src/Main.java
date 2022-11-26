@@ -8,6 +8,15 @@ public class Main {
         Tanya.WorkExperience=17.50;
         Tanya.ConstructionObjects="house";
         Tanya.displayInfo();
+        Тигр Шерхан=new Тигр();
+        Шерхан.Name="Shery";
+        Шерхан.Age=3;
+        Шерхан.Height=1.70;
+        Шерхан.Weight=160.02;
+        Шерхан.Сolor="orange";
+        Шерхан.Food="meat";
+        Шерхан.Speed=27.25;
+        Шерхан.displayInfo();
 
     }
 }

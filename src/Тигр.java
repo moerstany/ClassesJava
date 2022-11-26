@@ -16,6 +16,9 @@ public class Тигр extends Кенгуру {
 
 
         }
+    void displayInfo() {
+        System.out.printf("Name: %s \tAge: %d \t Height: %f \nWeight: %f \tСolor: %s \t Food : %s \tSpeed: %f\n", this.Name, this.Age, this.Height, this.Weight, this.Сolor,this.Food, this.Speed);
+    }
 
 
     }

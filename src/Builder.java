@@ -35,7 +35,7 @@ public class Builder extends Human
     }
 
     void displayInfo(){
-        System.out.printf( "Name: %s \tAge: %d\n", Name, Age,Salary, ConstructionObjects,WorkExperience);
+        System.out.printf( "Name: %s \tAge: %d \tSalary: %f \tConstructionObjects: %s\n WorkExperience : %f \n", Name, Age,Salary, ConstructionObjects,WorkExperience);
     }
 
 }
